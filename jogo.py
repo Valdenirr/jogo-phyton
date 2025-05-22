@@ -219,3 +219,4 @@ def resetar_jogo():
 # Início
 if __name__ == "__main__":
     intro()
+#teste adadad

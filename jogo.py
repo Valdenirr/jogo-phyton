@@ -220,3 +220,4 @@ def resetar_jogo():
 if __name__ == "__main__":
     intro()
 #teste adadad
+#sadada

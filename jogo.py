@@ -1,5 +1,4 @@
 #ilha perdida
-print('Seja Bem vindo!!')
 import random
 import time
 
